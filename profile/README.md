@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="../assets/olima.png" width="686"/>
+  <img src="../assets/olima.png" width="343"/>
 </p>
